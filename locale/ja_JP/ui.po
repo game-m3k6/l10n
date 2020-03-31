@@ -1,0 +1,20 @@
+# Translators:
+# tl 23 <zlq4863947@gmail.com>, 2020
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-04-01 02:40+0900\n"
+"PO-Revision-Date: 2020-03-31 18:04+0000\n"
+"Last-Translator: tl 23 <zlq4863947@gmail.com>, 2020\n"
+"Language-Team: Japanese (Japan) (https://www.transifex.com/m3k6/teams/108603/ja_JP/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja_JP\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "ui_facility_casino"
+msgstr "カジノ"
