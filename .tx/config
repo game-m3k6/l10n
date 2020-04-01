@@ -1,3 +1,10 @@
 [main]
 host = https://www.transifex.com
 
+[translation-66.ui-po]
+file_filter = locale/<lang>/ui.po
+minimum_perc = 0
+source_file = locale/zh/ui.po
+source_lang = zh
+type = PO
+
